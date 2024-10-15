@@ -1,4 +1,5 @@
 # Bank-Customer-Churn-Analysis
+# Bank Customer Churn Analysis with PowerBI
 
 ## Overview
 This Power BI project focuses on analyzing customer churn for a bank using the https://github.com/ChisomOnwumere/Bank-Customer-Churn-Analysis/blob/main/Bank%20Customer%20Churn%20Prediction.csv dataset above. 
