@@ -1,7 +1,9 @@
 # Bank-Customer-Churn-Analysis
 
 ## Overview
-This Power BI project focuses on analyzing customer churn for a bank using the dataset from Kaggle (https://www.kaggle.com/code/kmalit/bank-customer-churn-prediction). The goal of this project is to provide insights into the factors contributing to customer churn and support data-driven decision-making.
+This Power BI project focuses on analyzing customer churn for a bank using the https://github.com/ChisomOnwumere/Bank-Customer-Churn-Analysis/blob/main/Bank%20Customer%20Churn%20Prediction.csv dataset above. The origin of the dataset is (https://www.kaggle.com/code/kmalit/bank-customer-churn-prediction).
+
+The goal of this project is to provide insights into the factors contributing to customer churn and support data-driven decision-making.
 
 ## Dataset
 The dataset used in this project contains the following columns:
